@@ -1,1 +1,1 @@
-# telgram_bot
+worker: python main.py
