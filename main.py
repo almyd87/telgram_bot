@@ -6,7 +6,7 @@ import logging
 
 logging.basicConfig(format="%(asctime)s - %(name)s - %(levelname)s - %(message)s", level=logging.INFO)
 
-TOKEN = "ضع_توكن_البوت_هنا"
+TOKEN = "8199814346:AAE3y0kpOswMDDG3R4ayv33nbs7IPV2LLDM"
 
 SYMBOLS = {
     "EUR/USD": "EURUSD=X",
